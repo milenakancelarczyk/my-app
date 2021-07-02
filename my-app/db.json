@@ -1,0 +1,59 @@
+
+{
+  "meals": [
+    {
+      "id": 1 ,
+      "meat": "chicken" ,
+      "weight": 500
+    },
+
+    {
+      "id": 2 ,
+      "meat": "duck" ,
+      "weight": 300
+    },
+
+    {
+      "id": 3 ,
+      "meat": "beef" ,
+      "weight": 500
+    },
+
+    {
+      "id": 4 ,
+      "meat": "rabbit" ,
+      "weight": 700
+    },
+
+    {
+      "id": 5 ,
+      "meat": "pork" ,
+      "weight": 200
+    }
+  ],
+
+
+
+  "meats": [
+
+    {
+      "id": 1 ,
+      "name": "chicken" ,
+      "calories-per-100g": 45
+    },
+
+    {
+      "id": 2,
+      "name": "pork" ,
+      "calories-per-100g": 33
+    },
+
+    {
+      "id": 3,
+      "name": "beef" ,
+      "calories-per-100g": 11
+    }
+
+  ]
+}
+  
